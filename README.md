@@ -1,2 +1,2 @@
 # dynamodb-json-csv
-Convert a Json file from a dynamodb query to  CSV
+Convert a JSON file from a Dynamo DB query to CSV.
